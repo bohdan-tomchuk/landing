@@ -815,15 +815,6 @@ a {
   .about, .main-tasks, .projects, .contacts {
     margin-top: 70px;
   }
-  .popup-content form {
-    width: 292px;
-  }
-  .popup-content .button-right_arrow {
-    width: inherit;
-  }
-  .popup-content .contacts_checkbox span {
-    width: inherit;
-  }
 }
 
 @media (min-width: 375px) and (max-width: 767px) {
@@ -1024,6 +1015,15 @@ a {
   }
   .solo {
     width: 93%;
+  }
+  .popup-content form {
+    width: 292px;
+  }
+  .popup-content .button-right_arrow {
+    width: inherit;
+  }
+  .popup-content .contacts_checkbox span {
+    width: inherit;
   }
 }
 

@@ -948,19 +948,7 @@ a{
     .about,.main-tasks,.projects,.contacts {
         margin-top: 70px;
     }
-    .popup-content {
-        form {
-            width: 292px;
-        }
-        .button-right_arrow {
-            width: inherit;
-        }
-        .contacts_checkbox {
-            span {
-                width: inherit;
-            }
-        }
-    }
+    
 }
 
 @media (min-width: 375px) and (max-width: 767px) {
@@ -1179,6 +1167,19 @@ a{
     }
     .solo {
         width: 93%;
+    }
+    .popup-content {
+        form {
+            width: 292px;
+        }
+        .button-right_arrow {
+            width: inherit;
+        }
+        .contacts_checkbox {
+            span {
+                width: inherit;
+            }
+        }
     }
 }
 
