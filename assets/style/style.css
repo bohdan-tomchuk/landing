@@ -714,6 +714,10 @@ a {
   display: none;
 }
 
+.solo {
+  width: 93% !important;
+}
+
 @media (min-width: 992px) and (max-width: 1200px) {
   .container {
     max-width: 992px;
@@ -1013,9 +1017,6 @@ a {
   .place_holder {
     top: 7px;
   }
-  .solo {
-    width: 93%;
-  }
   .popup-content form {
     width: 292px;
   }
@@ -1024,9 +1025,6 @@ a {
   }
   .popup-content .contacts_checkbox span {
     width: inherit;
-  }
-  .solo {
-    width: 93%;
   }
 }
 
@@ -1224,9 +1222,6 @@ a {
   }
   .place_holder {
     top: 7px;
-  }
-  .solo {
-    width: 93%;
   }
   .popup-content .contacts-form {
     width: 242px;
