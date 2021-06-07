@@ -425,7 +425,7 @@ a {
   width: 421px;
   min-height: 200px;
   margin-right: 30px;
-  overflow-x: hidden;
+  overflow-x: clip;
   display: flex;
   flex-direction: column;
 }
@@ -1024,6 +1024,9 @@ a {
   }
   .popup-content .contacts_checkbox span {
     width: inherit;
+  }
+  .solo {
+    width: 93%;
   }
 }
 
