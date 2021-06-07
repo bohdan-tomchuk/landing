@@ -425,7 +425,7 @@ a {
   width: 421px;
   min-height: 200px;
   margin-right: 30px;
-  overflow-x: clip;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
 }
