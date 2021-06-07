@@ -1010,6 +1010,12 @@ a {
     font-size: 12px;
     line-height: 22px;
   }
+  .place_holder {
+    top: 7px;
+  }
+  .solo {
+    width: 93%;
+  }
 }
 
 @media (max-width: 374px) {
@@ -1203,5 +1209,11 @@ a {
     height: 40px;
     font-size: 12px;
     line-height: 22px;
+  }
+  .place_holder {
+    top: 7px;
+  }
+  .solo {
+    width: 93%;
   }
 }
